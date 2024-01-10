@@ -4,7 +4,7 @@ Burada bir açıklama gerçekleşmektedir..
 -paragraf-
 -paragraf-
 -paragraf-
--paragraf-
--paragraf-
+-1Masterparagraf-
+-2Masterparagraf-
 
 ## Header branch üzerinden gelen değişiklik..
