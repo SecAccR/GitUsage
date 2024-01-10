@@ -7,4 +7,5 @@ Burada bir açıklama gerçekleşmektedir..
 -1Masterparagraf-
 -2Masterparagraf-
 
+
 ## Header branch üzerinden gelen değişiklik..
